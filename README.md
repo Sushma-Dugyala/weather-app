@@ -35,7 +35,10 @@ I also added example images for the search feature to make it more clear and use
   Open index.html in any modern web browser to view the app.
 
 run the script and have fun!
+
+
 Thank you
+
 Developed by :Sushma Dugyala(Sushma-Dugyala)
 
 
